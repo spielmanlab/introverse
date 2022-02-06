@@ -1,2 +1,12 @@
-# introverse
-THIS IS NOT THE INTROVERSE
+# NOT THE `{introverse}`
+
+THE INTROVERSE HAS MOVED!!
+
+PLEASE FIND IT NOW INDEFINITELY AT:
+
+https://github.com/sjspielman/introverse
+
+and
+
+https://sjspielman.github.io/introverse
+
