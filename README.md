@@ -6,9 +6,9 @@
 
 # PLEASE FIND IT NOW INDEFINITELY AT:
 
-# https://github.com/sjspielman/introverse
+# [https://github.com/sjspielman/introverse](https://github.com/sjspielman/introverse)
 
 ## and
 
-# https://sjspielman.github.io/introverse
+# [https://sjspielman.github.io/introverse](https://sjspielman.github.io/introverse)
 
