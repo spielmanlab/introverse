@@ -1,12 +1,14 @@
-# NOT THE `{introverse}`
+# ALERT!!
 
-THE INTROVERSE HAS MOVED!!
+# THIS WEBSITE IS NO LONGER THE `{introverse}`
 
-PLEASE FIND IT NOW INDEFINITELY AT:
+# THE INTROVERSE HAS MOVED!!
 
-https://github.com/sjspielman/introverse
+# PLEASE FIND IT NOW INDEFINITELY AT:
 
-and
+# https://github.com/sjspielman/introverse
 
-https://sjspielman.github.io/introverse
+## and
+
+# https://sjspielman.github.io/introverse
 
